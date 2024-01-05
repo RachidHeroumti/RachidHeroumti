@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">A passionate full stack developer from Morroco</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU" />
+<img align="right" alt="coding" width="400" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU" />
 
 
 
