@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **NextJs /Spring boot**
 
-- 👨‍💻 All of my projects are available at " "
+- 👨‍💻 All of my projects are available at ""
 
 - 💬 Ask me about **MERN , Android**
 
-- 📫 How to reach me **cooderherou@gmail.com**
+- 📫 How to reach me **rachidheroumti0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
