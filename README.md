@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **chat app**
+- 🔭 I’m currently working on **JobApp Api**
 
-- 🌱 I’m currently learning **NextJs /Spring boot**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at ""
 
-- 💬 Ask me about **MERN , Android**
+- 💬 Ask me about **FULL Stack , Android**
 
 - 📫 How to reach me **rachidheroumti0@gmail.com**
 
