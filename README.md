@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Microservice Eco-store Api**
-- <br><br>- 🌱 I’m currently learning **SpringBoot**
-- <br><br>- 👨‍💻 All of my projects are available at "https://rachid-heroumti.onrender.com/"
-- <br><br>- 💬 Ask me about **FULL Stack , Android**
-- <br><br>- 📫 How to reach me **rachidheroumti0@gmail.com**
+- 🔭 I’m currently working on **Microservice Eco-store Api**<br><br>
+- 🌱 I’m currently learning **SpringBoot**<br><br>
+- 👨‍💻 All of my projects are available at "https://rachid-heroumti.onrender.com/"<br><br>
+- 💬 Ask me about **FULL Stack , Android**<br><br>
+- 📫 How to reach me **rachidheroumti0@gmail.com**
 
 
 ## 🌐 Socials:
